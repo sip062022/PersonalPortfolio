@@ -155,7 +155,7 @@ span{
 }
 
 .resume-img img{
-   display: block; 
+   display: flex; 
  height: 10rem; 
  width: 10rem; 
  object-fit: cover; 
