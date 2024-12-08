@@ -158,7 +158,6 @@ span{
    display: flex; 
  height: 60rem; 
  width: 80rem; 
-object-fit: cover; 
  object-position: absolute; 
 }
 
