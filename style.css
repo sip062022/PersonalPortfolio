@@ -155,13 +155,11 @@ span{
 }
 
 
-.resume-img img{
-    position: center;
-    width: 32vw;
-    border-radius: 50%;
-    box-shadow: 0 0 25px solid #b74b4b;
-    cursor: pointer;
-    transition: 0.2s linear;
+.resume-img img center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .social-icons a{
