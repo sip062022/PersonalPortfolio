@@ -158,7 +158,7 @@ span{
    display: flex; 
  height: 32vw; 
  width: 32vw; 
- object-position: absolute; 
+ object-position: fixed; 
 }
 
 .social-icons a{
