@@ -159,6 +159,7 @@ span{
     max-width: 50%;
 max-height: 100vh;
 width: 20vw;
+    position: center
 }
 
 .social-icons a{
