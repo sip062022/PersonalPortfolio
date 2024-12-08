@@ -154,6 +154,11 @@ span{
     font-weight: 500;
 }
 
+.resume-img img{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .social-icons a{
     display: inline-flex;
