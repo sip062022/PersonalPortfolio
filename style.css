@@ -156,10 +156,9 @@ span{
 
 
 .resume-img img{
-    max-width: 100%;
+    max-width: 50%;
 max-height: 100vh;
 width: 20vw;
-margin: auto;
 }
 
 .social-icons a{
