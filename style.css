@@ -155,11 +155,11 @@ span{
 }
 
 .resume-img img{
-    display: absolute;
+  display: absolute;
   justify-content: center;
   align-items: center;
-    width: 50%;
-    height: auto;
+  transform: scale(0.5); 
+} 
 }
 
 .social-icons a{
