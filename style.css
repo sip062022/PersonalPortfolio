@@ -15,7 +15,7 @@ html{
 }
 
 body{
-    width: 50%;
+    width: 100%;
     height: 100vh;
     overflow-x: hidden;
     background-color: #050214;
@@ -154,13 +154,6 @@ span{
     font-weight: 500;
 }
 
-
-.resume-img img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 
 .social-icons a{
     display: inline-flex;
