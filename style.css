@@ -156,8 +156,8 @@ span{
 
 .resume-img img{
    display: flex; 
- height: 30rem; 
- width: 20rem; 
+ height: 60rem; 
+ width: 80rem; 
 object-fit: cover; 
  object-position: absolute; 
 }
