@@ -155,7 +155,7 @@ span{
 }
 
 .resume-img img{
-    display: flex;
+    display: absolute;
   justify-content: center;
   align-items: center;
     width: 50%;
