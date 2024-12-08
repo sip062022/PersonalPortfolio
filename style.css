@@ -155,11 +155,11 @@ span{
 }
 
 .resume-img img{
-  display: absolute;
-  justify-content: center;
-  align-items: center;
-  transform: scale(0.5); 
-} 
+   display: block; 
+ height: 10rem; 
+ width: 10rem; 
+ object-fit: cover; 
+ object-position: center; 
 }
 
 .social-icons a{
