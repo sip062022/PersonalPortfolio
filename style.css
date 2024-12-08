@@ -155,13 +155,13 @@ span{
 }
 
 .resume-img{
-    border-radius: 100%;
+    border-radius: 50%;
 }
 
 .resume-img img{
     position: static;
-    width: 80vw;
-    border-radius: 100%;
+    width: 6vw;
+    border-radius: 50%;
     box-shadow: 0 0 25px solid #b74b4b;
     cursor: pointer;
     transition: 0.2s linear;
