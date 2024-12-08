@@ -158,6 +158,7 @@ span{
     display: flex;
   justify-content: center;
   align-items: center;
+    width: 6rem
 }
 
 .social-icons a{
