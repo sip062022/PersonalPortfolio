@@ -160,7 +160,7 @@ span{
  width: 10rem; 
 margin-top: 2 rem
  object-fit: cover; 
- object-position: center; 
+ object-position: absolute; 
 }
 
 .social-icons a{
